@@ -1,4 +1,4 @@
-![SiLa Banner](https://user-images.githubusercontent.com/placeholder/sila-banner.png)
+![SiLa Banner](https://drive.google.com/file/d/1noYnQqb9UHQ0BpyUbDqcm6rgDbe8c-6Q/view?usp=sharing)
 
 # ✋ SiLa - Sign Language Application
 

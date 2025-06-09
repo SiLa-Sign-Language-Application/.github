@@ -1,4 +1,4 @@
-![SiLa Banner](https://drive.google.com/file/d/1noYnQqb9UHQ0BpyUbDqcm6rgDbe8c-6Q/view?usp=sharing)
+![Auto Assign](https://github.com/SiLa-Sign-Language-Application/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
 
 # ✋ SiLa - Sign Language Application
 

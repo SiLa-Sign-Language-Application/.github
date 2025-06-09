@@ -1,4 +1,4 @@
-![Auto Assign](https://github.com/SiLa-Sign-Language-Application/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+
 
 # ✋ SiLa - Sign Language Application
 

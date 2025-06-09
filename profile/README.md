@@ -36,9 +36,9 @@ SiLa merupakan proyek kolaboratif yang menggabungkan teknologi visi komputer, ma
 
 | Komponen               | Deskripsi                                                                                      |
 |------------------------|------------------------------------------------------------------------------------------------|
-| `sila--model`          | Model Machine Learning untuk klasifikasi gesture tangan menggunakan model MLP.                 |
-| `sila-frontend`        | Aplikasi web interaktif dengan real-time gesture detection menggunakan React.js.               |
-| `sila-backend`         | REST API berbasis FastAPI untuk inference model.                                               |
+| [`sila--model`](https://github.com/SiLa-Sign-Language-Application/SiLa-Model)          | Model Machine Learning untuk klasifikasi gesture tangan menggunakan model MLP.                 |
+| [`sila-frontend`](https://github.com/SiLa-Sign-Language-Application/sila-frontend)        | Aplikasi web interaktif dengan real-time gesture detection menggunakan React.js.               |
+| [`sila-backend`](https://github.com/SiLa-Sign-Language-Application/sila-backend)         | REST API berbasis FastAPI untuk inference model.                                               |
 
 ---
 
@@ -50,6 +50,28 @@ SiLa merupakan proyek kolaboratif yang menggabungkan teknologi visi komputer, ma
 - ✅ Library Bahasa Isyarat SIBI
 - ✅ Tampilan antarmuka yang responsif dan ramah pengguna
 - ✅ Feedback Pengguna
+
+---
+
+Berikut versi markdown dari bagian **🗂️ Repositories & Featured Projects** yang disesuaikan untuk aplikasi **SiLa**:
+
+---
+
+## 🗂️ Repositories & Featured Projects
+
+Seluruh komponen aplikasi **SiLa** diorganisasi ke dalam beberapa repositori inti, masing-masing bertanggung jawab terhadap bagian penting dari platform:
+
+### 🔬 [`sila-Model`](https://github.com/sila-dev/sila-ml-model)
+
+Model Machine Learning untuk klasifikasi gesture tangan berbasis koordinat landmark dari MediaPipe. Termasuk arsitektur MLP yang dioptimalkan untuk inference real-time.
+
+### 🌐 [`sila-frontend`](https://github.com/sila-dev/sila-frontend)
+
+Aplikasi web interaktif berbasis React.js yang memungkinkan pengguna mendeteksi gesture tangan secara real-time menggunakan kamera atau video, dengan antarmuka sederhana dan ramah pengguna.
+
+### 🔧 [`sila-backend`](https://github.com/sila-dev/sila-backend)
+
+RESTful API berbasis FastAPI yang menangani proses inference model Machine Learning untuk klasifikasi gesture, dan menyediakan endpoint komunikasi dengan frontend.
 
 ---
 

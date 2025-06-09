@@ -1,5 +1,3 @@
-
-
 # ✋ SiLa - Sign Language Application
 
 **SiLa** adalah aplikasi berbasis web yang dirancang untuk mengenali gesture Bahasa Isyarat Indonesia (SIBI) secara real-time menggunakan model machine learning yang dilatih dari koordinat landmark tangan MediaPipe. SiLa bertujuan untuk menjembatani komunikasi antara teman tuli dan masyarakat umum melalui teknologi yang mudah diakses.
@@ -36,7 +34,7 @@ SiLa merupakan proyek kolaboratif yang menggabungkan teknologi visi komputer, ma
 
 | Komponen               | Deskripsi                                                                                      |
 |------------------------|------------------------------------------------------------------------------------------------|
-| [`sila--model`](https://github.com/SiLa-Sign-Language-Application/SiLa-Model)          | Model Machine Learning untuk klasifikasi gesture tangan menggunakan model MLP.                 |
+| [`sila-Model`](https://github.com/SiLa-Sign-Language-Application/SiLa-Model)          | Model Machine Learning untuk klasifikasi gesture tangan menggunakan model MLP.                 |
 | [`sila-frontend`](https://github.com/SiLa-Sign-Language-Application/sila-frontend)        | Aplikasi web interaktif dengan real-time gesture detection menggunakan React.js.               |
 | [`sila-backend`](https://github.com/SiLa-Sign-Language-Application/sila-backend)         | REST API berbasis FastAPI untuk inference model.                                               |
 

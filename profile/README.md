@@ -43,7 +43,6 @@ SiLa merupakan proyek kolaboratif yang menggabungkan teknologi visi komputer, ma
 ## 🚀 Fitur Aplikasi
 
 - ✅ Deteksi gesture huruf A-Z dan spasi menggunakan kamera secara real-time
-- ✅ Integrasi model Machine Learning ke dalam antarmuka web menggunakan FastAPI
 - ✅ Dukungan input video untuk mendeteksi gesture tangan
 - ✅ Library Bahasa Isyarat SIBI
 - ✅ Tampilan antarmuka yang responsif dan ramah pengguna
